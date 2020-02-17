@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-app-template/static/css/main.662cfda0.chunk.css",
-    "main.js": "/react-app-template/static/js/main.d000eb03.chunk.js",
-    "main.js.map": "/react-app-template/static/js/main.d000eb03.chunk.js.map",
-    "runtime-main.js": "/react-app-template/static/js/runtime-main.033a43de.js",
-    "runtime-main.js.map": "/react-app-template/static/js/runtime-main.033a43de.js.map",
-    "static/css/2.54ea62fa.chunk.css": "/react-app-template/static/css/2.54ea62fa.chunk.css",
-    "static/js/2.a65afd3c.chunk.js": "/react-app-template/static/js/2.a65afd3c.chunk.js",
-    "static/js/2.a65afd3c.chunk.js.map": "/react-app-template/static/js/2.a65afd3c.chunk.js.map",
-    "index.html": "/react-app-template/index.html",
-    "precache-manifest.48d80159c0d5c581faa90bc9d73a338e.js": "/react-app-template/precache-manifest.48d80159c0d5c581faa90bc9d73a338e.js",
-    "service-worker.js": "/react-app-template/service-worker.js",
-    "static/css/2.54ea62fa.chunk.css.map": "/react-app-template/static/css/2.54ea62fa.chunk.css.map",
-    "static/css/main.662cfda0.chunk.css.map": "/react-app-template/static/css/main.662cfda0.chunk.css.map",
-    "static/js/2.a65afd3c.chunk.js.LICENSE.txt": "/react-app-template/static/js/2.a65afd3c.chunk.js.LICENSE.txt",
-    "static/media/fullstack.svg": "/react-app-template/static/media/fullstack.98ce4f96.svg"
+    "main.css": "/react-app-ant/static/css/main.662cfda0.chunk.css",
+    "main.js": "/react-app-ant/static/js/main.57e00e2d.chunk.js",
+    "main.js.map": "/react-app-ant/static/js/main.57e00e2d.chunk.js.map",
+    "runtime-main.js": "/react-app-ant/static/js/runtime-main.430ed223.js",
+    "runtime-main.js.map": "/react-app-ant/static/js/runtime-main.430ed223.js.map",
+    "static/css/2.54ea62fa.chunk.css": "/react-app-ant/static/css/2.54ea62fa.chunk.css",
+    "static/js/2.2cbec7d1.chunk.js": "/react-app-ant/static/js/2.2cbec7d1.chunk.js",
+    "static/js/2.2cbec7d1.chunk.js.map": "/react-app-ant/static/js/2.2cbec7d1.chunk.js.map",
+    "index.html": "/react-app-ant/index.html",
+    "precache-manifest.4400c0afa2f0faa530e6f4f62d7bae13.js": "/react-app-ant/precache-manifest.4400c0afa2f0faa530e6f4f62d7bae13.js",
+    "service-worker.js": "/react-app-ant/service-worker.js",
+    "static/css/2.54ea62fa.chunk.css.map": "/react-app-ant/static/css/2.54ea62fa.chunk.css.map",
+    "static/css/main.662cfda0.chunk.css.map": "/react-app-ant/static/css/main.662cfda0.chunk.css.map",
+    "static/js/2.2cbec7d1.chunk.js.LICENSE.txt": "/react-app-ant/static/js/2.2cbec7d1.chunk.js.LICENSE.txt",
+    "static/media/fullstack.svg": "/react-app-ant/static/media/fullstack.98ce4f96.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.033a43de.js",
+    "static/js/runtime-main.430ed223.js",
     "static/css/2.54ea62fa.chunk.css",
-    "static/js/2.a65afd3c.chunk.js",
+    "static/js/2.2cbec7d1.chunk.js",
     "static/css/main.662cfda0.chunk.css",
-    "static/js/main.d000eb03.chunk.js"
+    "static/js/main.57e00e2d.chunk.js"
   ]
 }
